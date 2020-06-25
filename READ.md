@@ -4,3 +4,4 @@ JAVASCRIPT Course
 
 next semester C
 
+Artificial Intelligence
